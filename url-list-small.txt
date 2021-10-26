@@ -1,0 +1,7 @@
+https://github.com/jdmonin/anstop
+https://github.com/jroal/a2dpvolume
+https://github.com/aarddict/android
+https://github.com/communitymedia/mediaphone
+https://github.com/anthonycr/Lightning-Browser
+https://github.com/anthonycr/Lightning-Browser
+https://github.com/agersant/polaris-android
